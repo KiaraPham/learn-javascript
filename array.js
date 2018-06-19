@@ -3,8 +3,8 @@ var names = [];
 //push(item) add item to array
 names.push('Kim');
 names.push('Thach');
-names.push('Anh');
-names.push('Yen');
+names.push('Lien');
+names.push('Hoa');
 
 //forEach loop array
 names.forEach(item => {
