@@ -8,6 +8,8 @@ names.push('Hoa');
 
 //forEach loop array
 names.forEach(item => {
-    console.log(item);
+  console.log(item);
 });
 
+const firstLetters = names.map(name => name[0]);
+console.log(firstLetters);
